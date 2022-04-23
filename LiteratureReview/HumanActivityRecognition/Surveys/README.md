@@ -77,6 +77,36 @@ Conventional machine learning methods for HAR are laborious, errorprone, and cha
 
 Banjarey, K., Prakash Sahu, S., & Kumar Dewangan, D. (2021). A Survey on Human Activity Recognition using Sensors and Deep Learning Methods. 2021 5th International Conference on Computing Methodologies and Communication (ICCMC), Computing Methodologies and Communication (ICCMC), 2021 5th International Conference On, 1610–1617. https://doi.org/10.1109/ICCMC51019.2021.9418255. [HAR_with_Sensors.pdf](HAR_with_Sensors.pdf)
 
+> One of the most difficult challenges in the field of computer vision is human activity recognition (HAR). The main purpose of intelligent video system is to determine the actions and activities of the individual. However, due to few other unresolved issues including sensor mobility, sensor positioning, contextual setting, and implicit changeability, it remains a difficult task.
+
+HAR processes start with preprocessing the data (e.g., background removal or bounding box creation). Multi-camera systems must also calibrate coordinates for 3D human pose estimation. Next, software detects the joints and evaluates their changes over several frames. Using unsupervised algorithms is useful, but restricts the action space. Meanwhile, supervised algos require specialized datasets which are difficult to create.
+
+### What methods are researchers using
+
+- Pose estimation (vision-based)
+  - In a `bottom-up approach` the model detects every key-point in a given image and then tries to put-together the groups of key-points into skeletons for different targets.
+  - In the `top-down approach` is the opposite, the network firstly uses an object detector to draw a box around each of the target objects, and then try to guess the keypoints inside every cropped area.
+  - Default solution is CNN algos
+    - DCNN you increase the number of layers so we improve the quality of images and rate of convergence. After increasing the number of layers in CNN it is called deep CNN
+    - Region-based Convolutional Neural Networks (R-CNN) take an image as an input and output a series of bounding boxes, each of which includes an entity and the object's type, such as car or pedestrian.
+    - Faster R-CNN is a related object tracking algorithm to R-CNN. Compared to R-CNN and Fast R-CNN, this algorithm uses area proposal networks (RPNs)
+  - RNNs are also popular (e.g., LTSMs)
+- Wearable devices
+  - Deep Restricted Boltzmann Machine Method.
+  - Deep Autoencoder.
+  - Sparse Coding Method.
+  - Stacked Deep Gaussian Method.
+
+### What limitations exist
+
+- Model genre has a significant influence on AR execution
+- Number of subjects & diversersity
+- Data collection methodology
+  - Completely natural
+  - semi-natural
+  - laboratory
+  - sensors
+
 ## Learning Models for HAR (2021)
 
 Khan, N. S., & Ghani, M. S. (2021). A Survey of Deep Learning Based Models for Human Activity Recognition. Wireless Personal Communications: An International Journal, 120(2), 1593–1635. https://doi.org/10.1007/s11277-021-08525-w. [LearningModels.pdf](LearningModels.pdf).
