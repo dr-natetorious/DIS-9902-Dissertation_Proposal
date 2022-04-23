@@ -1,5 +1,30 @@
 # Graph Convolutional Networks
 
+## How DeepMind learns physics simulators with Graph networks
+
+WelcomeAIOverloards (2020). How DeepMind learns physics simulators with Graph networks. https://www.youtube.com/watch?v=JSed7OBasXs&ab_channel=WelcomeAIOverlords.
+
+Join my Foundations of GNNs online course (https://www.graphneuralnets.com)!  This video dives into the paper "Learning to Simulate Complex Physics with Graph Networks" from DeepMind and interviews one of its authors, Jonathan Godwin.
+
+Original Paper:  https://arxiv.org/abs/2002.09405
+Simulator video source:  https://sites.google.com/view/learning-to-simulate/
+Project Code & Datasets:  https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate
+
+Mailing List:  https://blog.zakjost.com/subscribe 
+Discord Server:  https://discord.gg/xh2chKX
+Blog:  https://blog.zakjost.com
+Patreon: https://www.patreon.com/welcomeaiover...
+
+References:
+
+- Daniel Holden's talk from UbiSoft: https://www.youtube.com/watch?v=sUb0W5_waRI&t=0s
+- SPlisHSPlasH project:  https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
+- "Data-driven Fluid Simulations using Regression Forests":  https://dl.acm.org/doi/10.1145/2816795.2818129
+- "Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow":  https://arxiv.org/pdf/1802.10123.pdf 
+- "Learning to Predict the Cosmological Structure Formation":  https://arxiv.org/pdf/1811.06533.pdf
+- "Graph Networks as Learnable Physics Engines for Inference and Control":  https://arxiv.org/pdf/1806.01242.pdf
+- "Relational inductive biases, deep learning, and graph networks":  https://arxiv.org/pdf/1806.01261.pdf
+
 ## Skeleton-based HAR using GCN (2021)
 
 M. Fanuel, X. Yuan, H. Nam Kim, L. Qingge and K. Roy, "A Survey on Skeleton-Based Activity Recognition using Graph Convolutional Networks (GCN)," 2021 12th International Symposium on Image and Signal Processing and Analysis (ISPA), 2021, pp. 177-182, doi: 10.1109/ISPA52656.2021.9552064. [Skeletal_GCN](Skeletal_GCN.pdf)
