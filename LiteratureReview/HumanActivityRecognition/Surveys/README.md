@@ -45,10 +45,33 @@ Conventional machine learning methods for HAR are laborious, errorprone, and cha
   - Deep Belief Networks (DBNs) [19, 84]: One of the first successful HAR solutions
   - Deep Boltzmann Machines (DBMs) [185]: Generative model with simplier structure than DBNs
   - Convolutional Boltzmann Machines (CBMs)
-- Autoencoders
+- Autoencoders (best for non image data)
   - Deterministic units instead of stochastic units like RBM)
   - Originally for dimensionality reduction (like PCA)
   - Allows nonlinear encode/decode functions for powerful generalization
+  - Types
+    - Spare autoencoders (SAE)
+    - Denoising autoencoders (DAE)
+    - Variation autoencoder (VAE)
+- Convolutional Neural Networks (CNN) (best for image data)
+  - Basic CNNs usually have four types of layers: convolution layer, pooling layer, detector layer (e.g., ReLU layer), and fully connected layer(a layer in general neural networks)
+  - Overall, CNNs are suitable for dealing with data with a known, grid-like topology (e.g., images, time-series data that can be considered as one-dimensional (1D) grid sampling at regular time intervals). However, CNNs may not work well on processing sequential data
+- Recurrent Neural Networks
+  - RNNs are favorable for dealing with sequential data (e.g., speech, accelerometer readings)
+  - Gated Recurrent Units (GRUs) [40, 41], which can adaptively capture sequential dependencies
+  - Deep RNN (DRNN) consisting of LSTMs to recognize the activities from several open public datasets. They demonstrated that the unidirectional DRNN outperforms the bidirectional DRNN and the cascaded DRNN
+- Generative Adversarial Networks
+  - A GAN consists of a generator and a discriminator. The main task of the generator is to learn the data distribution so that it can generate samples to deceive the discriminator. By contrast, the discriminator examines samples to recognize whether they are from real data (training data) or fake data (produced by the generator).
+  - Conditional GAN (CGAN) [137] controls the data generation process with auxiliary information (denoted by `c`).
+  - Least Squares GAN (LSGAN) [132] uses the least squares loss function for the discriminator rather than the sigmoid cross entropy loss function used in the basic GAN.
+  - To date, few works have used GANs and their variants for HAR, but they have great potential to be widely used in HAR as collecting labeled data in HAR is challenging and costly
+  - Overall, GANs are suitable for the scenarios where labeled data are few. Existing GAN-based works for HAR use mostly videos or images.
+
+![dl_methods.png](dl_methods.png)
+
+### What public datasets are available
+
+![har_datasets.png](har_datasets.png)
 
 ## Survey on HAR using Sensors (2021)
 
