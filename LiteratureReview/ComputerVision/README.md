@@ -72,15 +72,9 @@ The authors implement three algorithms and their ability to generate _attention 
 
 Thompson, J. A. F. (2021). Noise increases the correspondence between artificial and human vision. PLoS Biology, 19(12), 1–4. https://doi.org/10.1371/journal.pbio.3001477. [NoiseCorrespondence](NoiseCorrespondence.pdf).
 
-## HITL simulation in ROS-based UAV (2020)
+DNN are the defacto state-of-the-art solution for computer vision, and need noisy data improve accuracy. This requires **signal-to-signal-plus-noise (SSNR)** mechanisms that prevent overfitting and generalize for unknown examples.
 
-Moreac, E., Abdali, E. M., Berry, F., Heller, D., & Diguet, J.-P. (2020). Hardware-in-the-loop simulation with dynamic partial FPGA reconfiguration applied to computer vision in ROS-based UAV. 2020 International Workshop on Rapid System Prototyping (RSP), Rapid System Prototyping (RSP), 2020 IEEE International Workshop On, 1–7. https://doi.org/10.1109/RSP51120.2020.9244863. [HILT_ROS-based_UAV](HILT_ROS-based_UAV.pdf).
+> The hypothesis implied by these results is that simple exposure to a variety of viewing conditions will generalize to conditions that share statistical properties. However, Geirhos and colleagues [5] conclude that **humans and DNNs generalize in fundamentally different ways**. Their analysis, which included many different types of image transformations, found transformations that appear very similar to human viewers but which did not enable generalization in DNNs (networks trained on one do not generalize to the other).
 
-## Robot for Ball Fetch-and-Carry with Computer Vision (2022)
-
-Su, L., Huang, C.-J., Liu, M., Lu, B.-Y., Che, J., Wang, X., Feng, J., Li, C., Feng, Y., & Mo, Y. (2022). Robot for Ball Fetch-and-Carry with Computer Vision in Deep Learning. 2022 24th International Conference on Advanced Communication Technology (ICACT), Advanced Communication Technology (ICACT, 2022 24th International Conference On, 435–438. https://doi.org/10.23919/ICACT53585.2022.9728855. [RobotForBall.pdf](RobotForBall.pdf)
-
-## Computer vision for facial behavior analysis (2022)
-
-Jiang, Z., Luskus, M., Seyedi, S., Griner, E. L., Rad, A. B., Clifford, G. D., Boazak, M., & Cotes, R. O. (2022). Utilizing computer vision for facial behavior analysis in schizophrenia studies: A systematic review. PLoS ONE, 17(4), 1–22. https://doi.org/10.1371/journal.pone.0266828. [CV_FacialAnalysis](CV_FacialAnalysis.pdf).
+![ssnr.png](ssnr.png)
 

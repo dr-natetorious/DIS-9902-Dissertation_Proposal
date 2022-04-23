@@ -13,4 +13,6 @@ Xie, L., Zhai, J., Wu, B., Wang, Y., Zhang, X., Sun, P., & Yan, S. (2020). Elan:
 
 Prashar, A., & Salinas Monroy, S. A. (2020). A Secure Algorithm for Deep Learning Training under GAN Attacks. 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI), Communications, Computing, Cybersecurity, and Informatics (CCCI), 2020 International Conference On, 1–6. https://doi.org/10.1109/CCCI49893.2020.9256566. [SecureAlgorithm.pdf](SecureAlgorithm.pdf).
 
+## HITL simulation in ROS-based UAV (2020)
 
+Moreac, E., Abdali, E. M., Berry, F., Heller, D., & Diguet, J.-P. (2020). Hardware-in-the-loop simulation with dynamic partial FPGA reconfiguration applied to computer vision in ROS-based UAV. 2020 International Workshop on Rapid System Prototyping (RSP), Rapid System Prototyping (RSP), 2020 IEEE International Workshop On, 1–7. https://doi.org/10.1109/RSP51120.2020.9244863. [HILT_ROS-based_UAV](HILT_ROS-based_UAV.pdf).
