@@ -16,6 +16,6 @@ Mekonnen, G. B., & Beyna, A. T. (2020). Pharmacists’ Knowledge and Practice of
 
 Joschka Haltaufderheide, Johanna Hovemann, & Jochen Vollmann. (2020). Aging Between Participation and Simulation : Ethical Dimensions of Socially Assistive Technologies in Elderly Care. De Gruyter. [AgingParticipationSimulation_Book](AgingParticipationSimulation_Book.pdf).
 
-## Book: 
+## Book: Health Care Delivery in the United States
 
-James R. Knickman, P., & Brian Elbel, P. M. (2019). Jonas and Kovner’s Health Care Delivery in the United States, 12th Edition: Vol. 12th edition. Springer Publishing Company. [PermenantLink](https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=nlebk&AN=1998657&site=eds-live&scope=site&custid=s1229530&ebv=EB&ppid=pp_Cover). 
+James R. Knickman, P., & Brian Elbel, P. M. (2019). Jonas and Kovner’s Health Care Delivery in the United States, 12th Edition: Vol. 12th edition. Springer Publishing Company. [PermenantLink](https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=nlebk&AN=1998657&site=eds-live&scope=site&custid=s1229530&ebv=EB&ppid=pp_Cover).
