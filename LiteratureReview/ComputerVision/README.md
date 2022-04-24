@@ -1,5 +1,13 @@
 # Computer Vision
 
+## Book: Vision (1982)
+
+Marr, D. (1982). Vision : a computational investigation into the human representation and processing of visual information. [ProQuest](https://ebookcentral.proquest.com/lib/ncent-ebooks/detail.action?docID=3339148)
+
+## Active perception (1988)
+
+R. Bajcsy, "Active perception," in Proceedings of the IEEE, vol. 76, no. 8, pp. 966-1005, Aug. 1988, doi: 10.1109/5.5968. [Active_perception](Active_perception.pdf).
+
 ## Hierarchical Evolution in Human Vision Modeling (2021)
 
 Ballard, D. H., & Zhang, R. (2021). The Hierarchical Evolution in Human Vision Modeling. Topics in Cognitive Science, 13(2), 309–328. https://doi.org/10.1111/tops.12527. [HierarchialEvolution](HierarchialEvolution.pdf)
@@ -8,8 +16,8 @@ Ballard, D. H., & Zhang, R. (2021). The Hierarchical Evolution in Human Vision M
 
 |Level| Description| Timescale|
 |------|----------|----------|
-|Neural Dynamics of neural circuits| 20–300 ms|
-|Embodiment Primitive behaviors defined by fast sensorimotor co-ordination such as a fixation and pickup of an object |300–1,000 ms|
+|Neural Dynamics| of neural circuits| 20–300 ms|
+|Embodiment |Primitive behaviors defined by fast sensorimotor co-ordination such as a fixation and pickup of an object |300–1,000 ms|
 |Awareness| Use of simulation to modify behavioral descriptions |10 s|
 
 > A neural level encompasses Marr’s original functional level. Its models primarily respect low-level abstractions of the visual cortical anatomy. An embodiment level recognizes the embodiment of vision in an active agent that utilizes visuomotor behaviors. Models at this level include image acquisition and actions via an abstract motor system. The use of embodiment here is defined by the grounding of the body as emphasized by many authors (Ballard, Hayhoe, Pook, & Rao, 1997; Clark, 2008; Noë, 2009). An awareness level models the behavior by an explicit conscious agent. Models at this level include instructions comprehension of audio instruction and planning (Dehaene, 2014; Graziano, 2013).
