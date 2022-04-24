@@ -13,7 +13,7 @@ Project Code & Datasets:  https://github.com/deepmind/deepmind-research/tree/mas
 Mailing List:  https://blog.zakjost.com/subscribe 
 Discord Server:  https://discord.gg/xh2chKX
 Blog:  https://blog.zakjost.com
-Patreon: https://www.patreon.com/welcomeaiover...
+Patreon: https://www.patreon.com/welcomeaioverlords
 
 References:
 
