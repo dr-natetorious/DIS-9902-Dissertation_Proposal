@@ -1,5 +1,13 @@
 # Computer Vision
 
+## Book: Vision (1982)
+
+Marr, D. (1982). Vision : a computational investigation into the human representation and processing of visual information. [ProQuest](https://ebookcentral.proquest.com/lib/ncent-ebooks/detail.action?docID=3339148)
+
+## Active perception (1988)
+
+R. Bajcsy, "Active perception," in Proceedings of the IEEE, vol. 76, no. 8, pp. 966-1005, Aug. 1988, doi: 10.1109/5.5968. [Active_perception](Active_perception.pdf).
+
 ## Hierarchical Evolution in Human Vision Modeling (2021)
 
 Ballard, D. H., & Zhang, R. (2021). The Hierarchical Evolution in Human Vision Modeling. Topics in Cognitive Science, 13(2), 309–328. https://doi.org/10.1111/tops.12527. [HierarchialEvolution](HierarchialEvolution.pdf)
@@ -8,8 +16,8 @@ Ballard, D. H., & Zhang, R. (2021). The Hierarchical Evolution in Human Vision M
 
 |Level| Description| Timescale|
 |------|----------|----------|
-|Neural Dynamics of neural circuits| 20–300 ms|
-|Embodiment Primitive behaviors defined by fast sensorimotor co-ordination such as a fixation and pickup of an object |300–1,000 ms|
+|Neural Dynamics| of neural circuits| 20–300 ms|
+|Embodiment |Primitive behaviors defined by fast sensorimotor co-ordination such as a fixation and pickup of an object |300–1,000 ms|
 |Awareness| Use of simulation to modify behavioral descriptions |10 s|
 
 > A neural level encompasses Marr’s original functional level. Its models primarily respect low-level abstractions of the visual cortical anatomy. An embodiment level recognizes the embodiment of vision in an active agent that utilizes visuomotor behaviors. Models at this level include image acquisition and actions via an abstract motor system. The use of embodiment here is defined by the grounding of the body as emphasized by many authors (Ballard, Hayhoe, Pook, & Rao, 1997; Clark, 2008; Noë, 2009). An awareness level models the behavior by an explicit conscious agent. Models at this level include instructions comprehension of audio instruction and planning (Dehaene, 2014; Graziano, 2013).
@@ -47,26 +55,6 @@ Researchers approach these challenges using a **multiprocess approach**, _multip
 This means that you can create modules for predicting specific aspects of a problem -- is it a hotdog, am i hungry, does it have mustard -- do I eat it? Our brains can learn that combinations of these modules produces unique combinations that map to reward levels (and learned behaviors).
 
 ![evolve_fig5.png](evolve_fig5.png)
-
-## Explainable Computer Vision in Histopathology (2022)
-
-Bhattacharjee, S., Hwang, Y.-B., Ikromjanov, K., Sumon, R. I., Kim, H.-C., & Choi, H.-K. (2022). An Explainable Computer Vision in Histopathology: Techniques for Interpreting Black Box Model. 2022 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Artificial Intelligence in Information and Communication (ICAIIC), 2022 International Conference On, 392–398. doi:10.1109/ICAIIC54071.2022.9722656. [Explainable_Computer_Vision_in_Histopathology.pdf](Explainable_Computer_Vision_in_Histopathology.pdf)
-
-> AI models are complex and opaque, and it is important to understand model decision-making. Therefore, to address this problem, we present three techniques for accountability and transparency of the model, namely Activation Layer Visualization (ALV), Local Interpretable Model-Agnostic Explanation (LIME), SHapley Additive exPlanations (SHAP), and Gradient-weighted Class Activation Mapping (Grad-CAM).
-
-Computer vision is everywhere and making incredibily important decisions, creating the need for explainable computer vision (XCV). One approach is to fork the model and produce classify each parameter's importance. Researchers determine criticality with random forests and k-means clustering.
-
-![xcv_schematic.png](xcv_schematic.png)
-
-The authors implement three algorithms and their ability to generate _attention regions_, which highlight the "super pixels" that most influence the classification. Below table is sorted least to most sophisticated.
-
-|Algorithm|Observation|
-|------|-------------|
-|Grad-CAM| Popular and simple approach|
-|LIME| data format specific approximation for local features|
-|SHAP| Game theory based extension of integrated gradients|
-
-![not_a_tumar.png](not_a_tumar.png)
 
 ## Noise increases the correspondence between AI/HV (2021)
 

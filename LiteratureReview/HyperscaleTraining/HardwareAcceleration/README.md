@@ -4,7 +4,6 @@
 
 Global Data Center Accelerators Market Trajectory & Analytics 2020-2027: GPU, CPU, FPGA, ASIC, Deep Learning Training, Public Cloud Interface, Enterprise Interface. Plus Company Updates. March 5, 2021. Accessed April 15, 2022. [EBSCO](https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=edsinc&AN=edsinc.A653973707&site=eds-live&scope=site). [Global_Data_Center_Accelerator](Global_Data_Center_Accelerator.pdf)
 
-
 ## An Efficient and Non-Intrusive GPU Scheduling Framework (2020)
 
 Wang, S., Gonzalez, O. J., Zhou, X., Williams, T., Friedman, B. D., Havemann, M., & Woo, T. (2020). An Efficient and Non-Intrusive GPU Scheduling Framework for Deep Learning Training Systems. SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, High Performance Computing, Networking, Storage and Analysis, SC20: International Conference for, SC, 1–13. https://doi.org/10.1109/SC41405.2020.00094. [NonIntrusiveGPUSchedule](NonIntrusiveGPUSchedule.pdf).
