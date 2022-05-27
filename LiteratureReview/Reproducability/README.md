@@ -14,6 +14,10 @@ Qiu, L., Wang, Y., & Rubin, J. (2018). Analyzing the analyzers: FlowDroid/IccTA,
 
 This paper also appeared in [TIM-8101 Principals of CS Week 5](https://github.com/dr-natetorious/TIM-8101-Principals_of_Computer_Science/tree/master/Week5_Conferences).
 
+## Should We Strive to Make Science Bias-Free (2021)
+
+Hudson, R. (2021). Should We Strive to Make Science Bias-Free? A Philosophical Assessment of the Reproducibility Crisis. Journal for General Philosophy of Science, 52(3), 389–405. https://doi.org/10.1007/s10838-020-09548-w. [ScienceBiasFree.pdf](ScienceBiasFree.pdf).
+
 ## Reproducibility in deep learning algorithms (2020)
 
 Tomaszewski, J. E., Ward, A. D., Li, W., & Chen, W. (2020). Reproducibility in deep learning algorithms for digital pathology applications: a case study using the CAMELYON16 datasets. Proceedings of SPIE, 11603, 1160318. https://doi.org/10.1117/12.2581996. 
