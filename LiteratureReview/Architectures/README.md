@@ -16,3 +16,8 @@ ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2007.04.008. [ScienceDirect](ht
 ## Effect of Hyperparameters on Backpropagation (2021)
 
 A. Jaisswal and A. Naik, "Effect of Hyperparameters on Backpropagation," 2021 IEEE Pune Section International Conference (PuneCon), 2021, pp. 1-5, doi: 10.1109/PuneCon52575.2021.9686489. [Effect_of_Hyperparameters](Effect_of_Hyperparameters.pdf).
+
+## Hierarchical representations for efcient architecture search (2018)
+
+Liu H, Simonyan K, Vinyals O, Fernando C, Kavukcuoglu K (2018). Hierarchical representations for efcient architecture search [arXiv:171100436](https://arxiv.org/abs/1711.00436). 
+https://doi.org/10.48550/arXiv.1711.00436. [HierarchicalRepresentations](HierarchicalRepresentations.pdf)
