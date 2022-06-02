@@ -1,6 +1,5 @@
 # Hyperscale ML Training
 
-
 ## Strong Scaling in Deep Learning (2021)
 
 Oyama, Y., Maruyama, N., Dryden, N., McCarthy, E., Harrington, P., Balewski, J., Matsuoka, S., Nugent, P., & Van Essen, B. (2021). The Case for Strong Scaling in Deep Learning: Training Large 3D CNNs With Hybrid Parallelism. IEEE Transactions on Parallel and Distributed Systems, Parallel and Distributed Systems, IEEE Transactions on, IEEE Trans. Parallel Distrib. Syst, 32(7), 1641–1652. https://doi.org/10.1109/TPDS.2020.3047974. [StrongScaling](StrongScaling.pdf).
@@ -16,3 +15,7 @@ Prashar, A., & Salinas Monroy, S. A. (2020). A Secure Algorithm for Deep Learnin
 ## HITL simulation in ROS-based UAV (2020)
 
 Moreac, E., Abdali, E. M., Berry, F., Heller, D., & Diguet, J.-P. (2020). Hardware-in-the-loop simulation with dynamic partial FPGA reconfiguration applied to computer vision in ROS-based UAV. 2020 International Workshop on Rapid System Prototyping (RSP), Rapid System Prototyping (RSP), 2020 IEEE International Workshop On, 1–7. https://doi.org/10.1109/RSP51120.2020.9244863. [HILT_ROS-based_UAV](HILT_ROS-based_UAV.pdf).
+
+## Distributed Training of Deep Learning Models (2020)
+
+Langer, M., He, Z., Rahayu, W., & Xue, Y. (2020). Distributed Training of Deep Learning Models: A Taxonomic Perspective. IEEE Transactions on Parallel and Distributed Systems, Parallel and Distributed Systems, IEEE Transactions on, IEEE Trans. Parallel Distrib. Syst, 31(12), 2802–2818. https://doi.org/10.1109/TPDS.2020.3003307. [CommunicationModels](CommunicationModels.pdf).
