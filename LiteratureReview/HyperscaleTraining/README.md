@@ -19,3 +19,11 @@ Moreac, E., Abdali, E. M., Berry, F., Heller, D., & Diguet, J.-P. (2020). Hardwa
 ## Distributed Training of Deep Learning Models (2020)
 
 Langer, M., He, Z., Rahayu, W., & Xue, Y. (2020). Distributed Training of Deep Learning Models: A Taxonomic Perspective. IEEE Transactions on Parallel and Distributed Systems, Parallel and Distributed Systems, IEEE Transactions on, IEEE Trans. Parallel Distrib. Syst, 31(12), 2802–2818. https://doi.org/10.1109/TPDS.2020.3003307. [CommunicationModels](CommunicationModels.pdf).
+
+## Language Models are Few-Shot Learners (2020)
+
+Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. [arvix](https://arxiv.org/abs/2005.14165). [LanguageModels.pdf](LanguageModels.pdf)
+
+## Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (2022)
+
+William Fedus, Barret Zoph, Noam Shazeer; 23(120):1−39, 2022. [arxiv](https://arxiv.org/pdf/2101.03961.pdf). [SwitchTransformers.pdf](SwitchTransformers.pdf).
